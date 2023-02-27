@@ -1,9 +1,5 @@
 #Program to output the gas and food costs per person on a group road trip
 
-#Samuel Garmoe
-#February 27th, 2023
-#CMIS102 Week 7 assignment
-
 def give_welcome():
     print("Please use this program to calculate the costs of your recent road trip with friends")
     print("Follow the prompts and everything will be done for you!")
